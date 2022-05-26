@@ -1,0 +1,14 @@
+Copyright Seconda G Liceo Marconi 2021-2022
+
+GESTINE DELLE DATE
+
+Libreria win32 x64
+
+Calcola la differenza tra due date in giorni
+int giorni(int g1,int m1,int a1, int g2, int m2, int a2);
+
+
+
+====================================================== 
+INSTALLARE LA LIBRERIA SULLA STESSA DIR DEL PROGRAMMA 
+======================================================
